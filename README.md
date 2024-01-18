@@ -27,6 +27,14 @@ $ go run src/*
 $ go build -o docseng src/*
 ```
 
+## source code
+
+source code of docseng project is available at:
+
+- GitHub : <https://github.com/abanoubha/docseng.git>
+- GitLab : <https://gitlab.com/abanoubha/docseng.git>
+- CodeBerg : <https://codeberg.org/abanoubha/docseng.git>
+
 ## Tasks
 
 - [ ] indexing
