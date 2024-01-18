@@ -26,3 +26,8 @@ $ go run src/*
 ```sh
 $ go build -o docseng src/*
 ```
+
+## Tasks
+
+- [ ] indexing
+- [ ] searching
