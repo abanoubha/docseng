@@ -12,3 +12,9 @@ local search engine for oflline docs.
 - [apache/lucene: open-source search software](https://github.com/apache/lucene)
 - [helix-editor/nucleo: fuzzy matcher library](https://github.com/helix-editor/nucleo)
 - [YouTube | the algorithm behind spell checkers](https://www.youtube.com/watch?v=d-Eq6x1yssU)
+
+## Run the program/project
+
+```sh
+$ go run src/*
+```
