@@ -2,6 +2,8 @@
 
 Local search engine for oflline docs. It is called `docseng` and also known as `docse`.
 
+**se** is short for (s)earch (e)ngine.
+
 **docseng** is short for (doc)umentation (se)arch (eng)ine.
 
 **docse** is short for (doc)umentation (s)earch (e)ngine.
