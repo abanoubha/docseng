@@ -20,13 +20,19 @@ Local search engine for oflline docs. It is called `docseng` and also known as `
 - run the app
 
 ```sh
-$ go run src/*
+$ go run main.go
 ```
 
 - build the app from source
 
 ```sh
-$ go build -o docseng src/*
+$ go build -o docs main.go
+```
+
+- get dependencies, build binary/executable, run
+
+```sh
+go mod tidy && go build -o docse main.go && ./docse
 ```
 
 ## source code
