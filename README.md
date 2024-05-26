@@ -28,13 +28,13 @@ $ go run main.go
 - build the app from source
 
 ```sh
-$ go build -o docs main.go
+$ go build -o docs .
 ```
 
 - get dependencies, build binary/executable, run
 
 ```sh
-go mod tidy && go build -o docse main.go && ./docse
+go mod tidy && go build -o docse . && ./docse
 ```
 
 ## source code
