@@ -17,23 +17,16 @@ Local search engine for oflline docs. It is called `docseng` and also known as `
 - [helix-editor/nucleo: fuzzy matcher library](https://github.com/helix-editor/nucleo)
 - [YouTube | the algorithm behind spell checkers](https://www.youtube.com/watch?v=d-Eq6x1yssU)
 
-## How to use ?
-
-- run the app
+## How to use ? (Commands)
 
 ```sh
+# run the app
 $ go run main.go
-```
 
-- build the app from source
-
-```sh
+# build the app from source
 $ go build -o docs .
-```
 
-- get dependencies, build binary/executable, run
-
-```sh
+# get dependencies, build binary/executable, run
 go mod tidy && go build -o docse . && ./docse
 ```
 
