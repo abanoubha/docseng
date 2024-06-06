@@ -28,6 +28,9 @@ $ go build -o docs .
 
 # get dependencies, build binary/executable, run
 go mod tidy && go build -o docse . && ./docse
+
+# detect race conditions & memory leaks
+go run -race .
 ```
 
 ## source code
