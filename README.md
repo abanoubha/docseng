@@ -22,7 +22,7 @@ Local search engine for oflline docs. It is called `docseng` and also known as `
 
 ```sh
 # run the app
-$ go run main.go
+$ go run .
 
 # build the app from source
 $ go build -o docs .
